@@ -1,0 +1,16 @@
+{
+  "name": "imagemagick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "express": "^4.13.3",
+    "imagemagick": "^0.1.3"
+  }
+}
